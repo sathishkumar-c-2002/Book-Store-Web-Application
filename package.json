@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "notistack": "^3.0.2"
+    "notistack": "^3.0.2",
+    "serve": "^14.2.4"
   }
 }
